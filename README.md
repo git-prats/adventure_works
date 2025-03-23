@@ -1,4 +1,4 @@
-# Adeventure Works Analysis
+# Adventure Works Analysis
 
 - Conducted Sales Analysis, Region Analysis of a Supermarket  
 
